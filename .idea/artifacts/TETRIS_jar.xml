@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TETRIS:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TETRIS_jar</output-path>
+    <root id="archive" name="TETRIS.jar">
+      <element id="module-output" name="TETRIS" />
+    </root>
+  </artifact>
+</component>
